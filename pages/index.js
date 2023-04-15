@@ -35,7 +35,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={`${utilStyle.headingMd} ${utilStyle.padding1px}`}>
         <p>
-          出版社で編集者をしていました。2020年にエンジニア転職をして、現在はWEBアプリ開発をしています。2023年に東京から福岡に移動しました。
+          2020年にエンジニア転職をして、現在はWEBアプリ開発をしています。
         </p>
       </section>
 
